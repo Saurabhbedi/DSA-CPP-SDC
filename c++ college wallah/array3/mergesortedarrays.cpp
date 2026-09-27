@@ -44,7 +44,7 @@ int main (){
     for(int i=0;i<arr1.size();i++){
         cout<<arr1[i]<<" ";
     }
-    cout<<" ";
+    cout<<" "; 
     vector<int> arr2;
     arr2.push_back(2);
     arr2.push_back(3);
